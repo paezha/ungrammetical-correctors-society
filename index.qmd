@@ -1,5 +1,5 @@
 ---
-title: "ungrammetical-correctors-society"
+title: "Ungrammetical Correctors Society"
 listing:
   contents: posts
   sort: "date desc"
