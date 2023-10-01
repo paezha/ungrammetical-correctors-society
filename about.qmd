@@ -24,5 +24,13 @@ about:
 Ungrammetical Correctors Society © 2023 by Antonio Paez is licensed under CC BY-NC-ND 4.0  
  -->
 
+Hi.
+
+I am Antonio Páez.
+
+I am an Engineer and Geographer. I have been a professor of geography at [McMaster University](https://experts.mcmaster.ca/display/paezha) since 2002. I have long-standing interests in math, society, art, politics, computer languages, and poetry.
+
+Not sure what this blog will look like yet, but likely will be a combination of musing, arts, writing, and occasional professional news.
+
 <!-- Text for media  -->
 Ungrammetical Correctors Society © 2023 by Antonio Paez is licensed under CC BY-NC-ND 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/

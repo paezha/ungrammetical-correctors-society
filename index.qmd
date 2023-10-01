@@ -9,7 +9,7 @@ listing:
   filter-ui: false
 categories: true
 feed:
-  categories: [art, science, musings]
+  categories: [art, news, writing, science, musings]
 page-layout: full
 title-block-banner: true
 ---
