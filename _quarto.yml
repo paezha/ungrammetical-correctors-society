@@ -11,6 +11,8 @@ website:
         href: https://github.com/paezha
       - icon: mastodon
         href: https://mastodon.online/@paezha
+      - icon: rss
+        href: index.xml
 format:
   html:
     theme:
@@ -18,5 +20,7 @@ format:
       dark: darkly
     css: styles.css
 
+execute:
+  freeze: true
 
 
