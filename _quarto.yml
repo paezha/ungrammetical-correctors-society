@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "ungrammetical-correctors-society"
+  title: "Ungrammetical Correctors Society"
   navbar:
     right:
       - about.qmd

@@ -9,7 +9,7 @@ about:
       href: https://mastodon.online/@paezha
     - icon: orcid
       text: orcid
-      href: https://linkedin.com
+      href: https://orcid.org/0000-0001-6912-9919
     - icon: github
       text: Github
       href: https://github.com/paezha
