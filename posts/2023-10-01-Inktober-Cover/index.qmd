@@ -4,7 +4,7 @@ author: "Antonio Paez"
 description: "An Alphabet for the XXI Century: Cover"
 date: "2023-10-01"
 date-modified: "2023-10-01"
-categories: [art, inktober] 
+categories: [art, inktober, alphabet-xxi-century] 
 ---
 
 Welcome to [Inktober](https://inktober.com/)!  
