@@ -1,0 +1,12 @@
+---
+title: "Welcome To My Blog"
+author: "Antonio Paez"
+date: "2023-10-01"
+categories: [news]
+---
+
+This is my blog. I will blog occasionally. The blog was created with [Quarto](https://quarto.org/docs/websites/website-blog.html).  
+
+This was me, sometime during the pandemic. I am older now.  
+  
+![](apaez.jpg)
