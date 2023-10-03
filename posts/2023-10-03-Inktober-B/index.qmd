@@ -1,7 +1,7 @@
 ---
 title: "Inktober 2023"
 author: "Antonio Paez"
-description: "An Alphabet for the XXI Century: A"
+description: "An Alphabet for the XXI Century: B"
 date: "2023-10-03"
 date-modified: "2023-10-03"
 categories: [art, inktober, alphabet-xxi-century] 
