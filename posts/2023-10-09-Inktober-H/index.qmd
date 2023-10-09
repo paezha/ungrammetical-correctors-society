@@ -1,0 +1,15 @@
+---
+title: "Inktober 2023"
+author: "Antonio Paez"
+description: "An Alphabet for the XXI Century: H"
+date: "2023-10-09"
+date-modified: "2023-10-09"
+categories: [art, inktober, alphabet-xxi-century] 
+---
+
+[Inktober](https://inktober.com/) 2023.  
+  
+An Alphabet for the XXI Century proudly presents the letter **H**.  
+
+![](AXXI-H.png)
+
