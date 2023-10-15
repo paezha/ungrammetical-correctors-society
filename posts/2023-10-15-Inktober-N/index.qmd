@@ -1,0 +1,15 @@
+---
+title: "Inktober 2023"
+author: "Antonio Paez"
+description: "An Alphabet for the XXI Century: N"
+date: "2023-10-15"
+date-modified: "2023-10-15"
+categories: [art, inktober, alphabet-xxi-century] 
+---
+
+[Inktober](https://inktober.com/) 2023.  
+  
+An Alphabet for the XXI Century proudly presents the letter **N**.  
+
+![](AXXI-N.png)
+
