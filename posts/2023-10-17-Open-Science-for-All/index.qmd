@@ -1,0 +1,27 @@
+---
+title: "Open Science for All"
+author: "Antonio Paez"
+description: "A talk presented by McMaster ReproducibiliTea"
+date: "2023-10-17"
+date-modified: "2023-10-17"
+categories: [science, talks, research] 
+---
+
+Today I was invited to give a talk by [McMaster ReproducibiliTea](https://reproducibilitea.org/journal-clubs/#McMaster). [ReproducibiliTea](https://reproducibilitea.org/) is a "grassroots journal club initiative that helps researchers create local Open Science journal clubs at their universities," and it has university chapters all over the world.
+
+For this talk I decided to update a talk that I gave in Spain this past summer, and talk about Open Science for All. The key themes of the talk are as follows:
+
+- Science has been incredibly effective way to unveil the mysteries of the universe.
+- It has been successful because it has historically been an open, collective enterprise.
+- However, science has become increasingly closed, for reasons that include the cost of entry and the emergence of perverse incentives that prioritize quantity over quality.
+- Science should be "open" by definition. The fact that we are talking about _open_ science is indicative of this closing.
+- Science becomes less effective when the public feels alienated from it, when it is seen as a luxurious hobby for few.
+- If we aspire to see science remain as an effective, positive part of civilization we need to reclaim the spirit of openness of science.
+- In fact, recasting science as a _public good_, that belongs to all, and from all benefit.
+- There are several initiatives that aim to re-open science at every level, from individual researchers, to communities of practice, to various levels of government and international organizations.
+- There are reasons to be positive, but much work remains to be done, and it is something in which all, artists, humanists, philosophers, as well as scientists should have a stake in.
+  
+The slides of the talk are below.
+
+<div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/bl81ee71kteherq2k4xy8a6iupcf6nzm/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
+
