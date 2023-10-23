@@ -1,0 +1,15 @@
+---
+title: "Inktober 2023"
+author: "Antonio Paez"
+description: "An Alphabet for the XXI Century: V"
+date: "2023-10-23"
+date-modified: "2023-10-23"
+categories: [art, inktober, alphabet-xxi-century] 
+---
+
+[Inktober](https://inktober.com/) 2023.  
+  
+An Alphabet for the XXI Century proudly presents the letter **V**.  
+
+![](AXXI-V.png)
+
