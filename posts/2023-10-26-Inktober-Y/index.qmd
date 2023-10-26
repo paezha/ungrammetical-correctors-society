@@ -1,0 +1,15 @@
+---
+title: "Inktober 2023"
+author: "Antonio Paez"
+description: "An Alphabet for the XXI Century: Y"
+date: "2023-10-26"
+date-modified: "2023-10-26"
+categories: [art, inktober, alphabet-xxi-century] 
+---
+
+[Inktober](https://inktober.com/) 2024.  
+  
+An Alphabet for the XXI Century proudly presents the letter **Y**.  
+
+![](AXXI-Y.png)
+
